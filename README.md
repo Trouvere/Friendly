@@ -34,11 +34,11 @@ This app allows people to stay connected within the company, find interest group
 
     2.4 Put this content into the file
 
-        SECRET =
+        SECRET = secret
         USER_DB =
         PASSWORD_DB =
         DB_PORT=
-        DB_URL=localhost
+        DB_URL= localhost
 
     2.5 Start the MySQL database
 
