@@ -1,8 +1,11 @@
 # Friendly app
 
 See work app: https://friendlygh.netlify.app/
+
 See code:
+
 **server**(https://github.com/Trouvere/FriendlyGH-server.git)
+
 **client**(https://github.com/Trouvere/FriendlyGH-client.git)
 
 ## Purpose
@@ -12,7 +15,9 @@ This app allows people to stay connected within the company, find interest group
 ## Setup and run
 
 1.  **Clone** the repository:
+
     **server**(https://github.com/Trouvere/FriendlyGH-server.git)
+
     **client**(https://github.com/Trouvere/FriendlyGH-client.git)
 
 2.  **server**
