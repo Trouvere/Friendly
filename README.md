@@ -32,7 +32,7 @@ This app allows people to stay connected within the company, find interest group
 
     (for default it will be 'http://localhost:3000')
 
-    2.4 Put this content into the file
+    2.4 Put this content into the file (filling in the fields USER_DB, PASSWORD_DB, DB_PORT)
 
         SECRET = secret
         USER_DB =
