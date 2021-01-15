@@ -27,7 +27,9 @@ This app allows people to stay connected within the company, find interest group
     2.2 Create file named .env in `\server` folder
 
     2.3 At the file `\server\server.js` in the line 11 change origin
-    origin: 'url client '
+
+        origin: 'url client '
+
     (for default it will be 'http://localhost:3000')
 
     2.4 Put this content into the file
