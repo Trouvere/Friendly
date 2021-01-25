@@ -21,13 +21,14 @@ This app allows people to stay connected within the company, find interest group
     **client**(https://github.com/Trouvere/FriendlyGH-client.git)
     
 2.  **Run MySQL script**
+
     2.1 Open MySQL Command Line Client as administrator
 
-    2.2 Insert  
+    2.2 Enter comand:  
     
         source "directory"\"fileName".sql 
 
-    (for exemple 'source C:\Users\User\Documents\FriendlyScript2.sql')
+    (for exemple `source C:\Users\User\Documents\FriendlyScript2.sql`)
 
 
     Or import using MySQL Workbench
