@@ -28,7 +28,7 @@ This app allows people to stay connected within the company, find interest group
     
         source "directory"\"fileName".sql 
 
-    (for exemple `source C:\Users\User\Documents\FriendlyScript2.sql`)
+    (for exemple `source C:\Users\User\Documents\FriendlyScript.sql`)
 
 
     Or import using MySQL Workbench
